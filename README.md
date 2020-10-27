@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello
 
 <!--
 **nagayev/nagayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Marat Nagayev, fullstack webdeveloper.
+For more information about me and my projects you can get on my site [nagayev.ru](https://nagayev.ru)
